@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-A Sentimental Analysis using 3 pre-trained Machine Learning Data Models : Vader, RoBERTa and Electra.
+A Sentimental Analysis using 3 pre-trained Machine Learning Data Models.
 
 
 In this project we will be working on multiple techniques that are:
